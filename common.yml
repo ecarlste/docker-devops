@@ -1,6 +1,6 @@
 version: '2'
 services:
-  dockerapp:
+  docker-devops:
     ports:
       - "5000:5000"
 
